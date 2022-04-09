@@ -18,7 +18,7 @@
   "dependencies": {
     "accordion-collapse-react-native": "^0.1.11",
     "axios": "^0.18.0",
-    "moment": "^2.24.0",
+    "moment": "^2.29.2",
     "native-base": "^2.12.2",
     "numeral": "^2.0.6",
     "react": "16.6.3",
